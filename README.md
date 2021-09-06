@@ -11,7 +11,7 @@
 8. Give a database name as (hotel) hit on create button.
 9. After creating database click on import.
 10. Browse the file in directory [C:\xampp\htdocs\Hotel-Management\database\hotel.sql].
-11. Open any browser and type http://localhost/Online-Forum.
+11. Open any browser and type http://localhost/Hotel-Management.
 12. Now enjoy the code.:fire:
 
 ## Contributing
